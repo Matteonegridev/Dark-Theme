@@ -1,0 +1,33 @@
+{
+  "name": "batman-vs-joker",
+  "publisher": "matteonegridev",
+  "displayName": "Batman VS Joker",
+  "description": "Dark theme inspired by Batman vs Joker colors!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "batmanjoker.jpg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Batman VS Joker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matteongridev-color-theme.json"
+      }
+    ],
+    "keywords": [
+      "theme",
+      "batman",
+      "joker",
+      "purple",
+      "green",
+      "dark",
+      "github",
+      "darktheme"
+    ]
+  }
+}
