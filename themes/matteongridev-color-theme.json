@@ -370,7 +370,7 @@
       "scope": ["entity.name.tag.html", "meta.tag.metadata.title.start.html"],
       "settings": {
         "foreground": "#c5c5c5",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
