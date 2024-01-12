@@ -91,10 +91,10 @@
     "badge.foreground": "#181719",
     "terminal.foreground": "#c5c5c5",
     "terminal.ansiBrightYellow": "#ffe181",
-    "terminal.ansiYellow": "#c5c5c5",
+    "terminal.ansiYellow": "#eab948",
     "terminal.ansiMagenta": "#c5c5c5",
-    "terminal.ansiCyan": "#be80ff",
-    "terminal.ansiGreen": "#eab948",
+    "terminal.ansiCyan": "#0fc3ff",
+    "terminal.ansiGreen": "#505c7c",
     "terminal.ansiBrightBlack": "#44bc78",
     "terminal.ansiBrightGreen": "#505c7c",
 
