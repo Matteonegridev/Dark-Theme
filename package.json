@@ -1,8 +1,8 @@
 {
-  "name": "batman-vs-joker",
+  "name": "batman-classic",
   "publisher": "matteonegridev",
-  "displayName": "Batman VS Joker",
-  "description": "Dark theme inspired by Batman vs Joker colors!",
+  "displayName": "Batman Classic",
+  "description": "Dark theme inspired by Batman colors!",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Batman VS Joker",
+        "label": "Batman Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/matteongridev-color-theme.json"
       }
